@@ -1,4 +1,7 @@
 # Adapter.Fi
+<p align=”center”>
+<img width=”200" height=”200" src=./assets/banner.png alt=”Adapter.Fi”>
+</p>
 
 ## Official links
 

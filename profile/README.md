@@ -4,7 +4,7 @@
 
 ## Official links
 
-tba
+[Adapter.Fi on X](https://twitter.com/Adapter_fi)
 
 ## Contact
 
